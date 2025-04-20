@@ -2,7 +2,7 @@
 title: "The False Friend"
 ---
 
-
+![Watercolor painting of a deer and a crow, the deer a warm brown with large, expressive eyes, the crow a deep charcoal grey with bright, inquisitive eyes.  Both are consistently sized and shaped throughout the painting.  The background shows a sun-drenched field with a partially visible, rustic wooden trap.  The deer is caught in the trap, looking fearful, while the crow perches nearby, watching with concern.  Use soft, muted colors for a gentle, storybook feel. Emphasize the contrast between the deer's fear and the crow's alertness. Style: whimsical watercolor illustration.](/images/image_the-false-friend0.png)
 
 Once upon a time, a deer and a crow were best friends. They were always there for each other, through thick and thin.
 
@@ -11,7 +11,6 @@ One day, the crow saw the deer with a sly fox.  The crow warned the deer, "Foxes
 
 Guess what? The deer got caught in a trap! The fox said, "I'm going to call the farmer. He'll kill you!" 
 
-![Watercolor painting of a deer and a crow, the deer a warm brown with large, expressive eyes, the crow a deep charcoal grey with bright, inquisitive eyes.  Both are consistently sized and shaped throughout the painting.  The background shows a sun-drenched field with a partially visible, rustic wooden trap.  The deer is caught in the trap, looking fearful, while the crow perches nearby, watching with concern.  Use soft, muted colors for a gentle, storybook feel. Emphasize the contrast between the deer's fear and the crow's alertness. Style: whimsical watercolor illustration.](/images/image_the-false-friend0.png)
 
 The deer cried out.  Just then, the crow arrived and said, "Deer, pretend you're dead! Lie very still." The deer did as his friend said.
 

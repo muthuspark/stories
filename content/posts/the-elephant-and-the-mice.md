@@ -2,10 +2,6 @@
 title: "The Elephant and the Mice"
 ---
 
-
-
-
-
 A long, long time ago, there was a very old village that had been damaged by an earthquake. No people lived there anymore.  But in this empty village, a whole bunch of mice made their home.
 
 Near the village was a big lake. A herd of elephants used to go to the lake every day to drink water. To get to the lake, they had to walk through the village.
