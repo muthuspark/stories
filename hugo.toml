@@ -43,3 +43,7 @@ listDateFormat = '02 Jan 2006'
 [[params.menu]]
 name = "posts"
 url = "/posts"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
