@@ -1,0 +1,205 @@
+{{ define "main" }}
+
+{{/* Breadcrumbs */}}
+
+{{ if not .IsHome }}
+{{ partial "breadcrumbs.html" . }}
+{{ end }}
+
+<div {{ if .Param "autonumber" }} class="autonumber" {{ end }}>
+
+  <div class="single-intro-container">
+
+    {{/* Title and Summary */}}
+
+    <h1 class="single-title">{{ .Title }}</h1>
+    {{ with .Param "summary" }}
+    <p class="single-summary">{{ . | markdownify }}</p>
+    {{ end }}
+
+    {{/* Reading Time */}}
+
+    <p class="single-readtime">
+      {{ with .Date }}
+      {{ $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := . | time.Format (default ":date_long" $.Site.Params.singleDateFormat) }}
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      {{end}}
+
+      {{ if .Param "readTime" }}
+      &nbsp; · &nbsp;
+      {{ .ReadingTime }} min read
+      {{end }}
+    </p>
+
+  </div>
+
+  {{ if .Param "showTags" }}
+
+  {{ $taxonomy := "tags" }}
+  {{ with .Param $taxonomy }}
+
+  <div class="single-tags">
+    {{ range $index, $tag := . }}
+    {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) -}}
+    <span>
+      <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+    </span>
+    {{ end }}
+    {{ end }}
+  </div>
+
+  {{ end }}
+  {{ end }}
+
+  {{/* Table of Content */}}
+
+  {{ if .Param "toc" }}
+  <aside class="toc">
+    <p><strong>Table of contents</strong></p>
+    {{ .TableOfContents }}
+  </aside>
+  {{ end }}
+
+  {{/* Page content */}}
+
+  <div class="single-content">
+    {{ .Content }}
+    {{ if .Site.Params.giscus.enable }}
+    {{ if not .Params.disableComment }}
+    {{ partial "comments.html" . }}
+    {{ end }}
+    {{ end }}
+  </div>
+
+  {{ if .Store.Get "hasMermaid" }}
+  {{ $mermaidDarkTheme := default "dark" (or .Params.mermaidDarkTheme .Site.Params.mermaidDarkTheme) }}
+  {{ $mermaidTheme := default "default" (or .Params.mermaidTheme .Site.Params.mermaidTheme) }}
+  <script defer
+    type="module"
+    id="mermaid_script"
+    data-light-theme="{{ $mermaidTheme }}"
+    data-dark-theme="{{ $mermaidDarkTheme }}"
+    src='{{ "js/mermaid.js" | relURL }}'>
+  </script>
+  {{ end }}
+
+  {{/* Next prev controls */}}
+
+  {{ if not (.Param "hidePagination") }}
+  {{ partial "pagination-single.html" . }}
+  {{ end }}
+
+  {{/* Back to top */}}
+
+  {{ if not (.Param "hideBackToTop") }}
+  <div class="back-to-top">
+    <a href="#top">
+      back to top
+    </a>
+  </div>
+  {{ end }}
+
+</div>
+<!-- <script>
+
+setTimeout(() => {
+
+  const rbutton = document.createElement('button')
+  rbutton.style.border = "1px solid black";
+  rbutton.style.margin = "10px";
+  rbutton.style.padding = "10px";
+  rbutton.style.backgroundColor = "black";
+  rbutton.style.color = "white";
+  rbutton.style.fontSize = "16px";
+  rbutton.style.cursor = "pointer";
+  rbutton.innerHTML = "Regenerate All";
+  rbutton.onclick = function () {
+    console.log("reloading all images");
+    fetch("http://127.0.0.1:5555/regenerate_all", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body:"",
+      });
+  }
+  document.querySelector('.single-intro-container').appendChild(rbutton);
+
+  const images = document.querySelectorAll("img");
+  for (const image of images) {
+    // wrap the image tag with a div and add a button to rengerate the image
+    const wrapper = document.createElement("div");
+    wrapper.className = "image-wrapper";
+    image.parentNode.insertBefore(wrapper, image);
+
+    wrapper.appendChild(image);
+    wrapper.style.position = "relative";
+
+    
+
+    // alt text
+    const textarea = document.createElement("textarea");
+    textarea.className = "image-alt-text";
+    textarea.textContent = image.getAttribute("alt");
+    textarea.style.width = "100%";
+    textarea.style.height = "100px";
+    textarea.onchange = function () {
+      image.setAttribute("alt", textarea.value);
+    };
+    wrapper.appendChild(textarea);
+
+    const rbutton = document.createElement("button");
+    rbutton.className = "image-reload-button";
+    rbutton.innerHTML = "Reload Image";
+    rbutton.style.border = "1px solid black";
+    rbutton.style.margin = "10px";
+    rbutton.style.padding = "10px";
+    rbutton.style.backgroundColor = "black";
+    rbutton.style.color = "white";
+    rbutton.style.fontSize = "16px";
+    rbutton.style.cursor = "pointer";
+    wrapper.appendChild(rbutton);
+    
+    rbutton.addEventListener("click", () => {
+      // image.src = image.src;
+      console.log("reloading image");
+      const original_src = image.src;
+      const image_name = original_src.split("/").pop().split(".")[0];
+      const image_extn = original_src.split("/").pop().split(".")[1];
+
+      let path_values = location.pathname.split("/")
+      // remove the empty values in path
+      for (let i = 0; i < path_values.length; i++) {
+        if (path_values[i] === "") {
+          path_values.splice(i, 1);
+          i--;
+        }
+      }
+      const file_name = path_values.pop() + ".md"
+      const prompt = "The story of " + document.querySelector(".single-title").innerText + ", " + image.getAttribute("alt");
+      // make an api post call to http://127.0.0.1:5555
+      fetch("http://127.0.0.1:5555/regenerate", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          file_name: file_name,
+          old_name: image.src.split("/").pop(),
+          new_name: image_name + "0" + "." + image_extn,
+          prompt: prompt,
+        }),
+      })
+        .then((response) => response.json())
+        .then((data) => {
+          setTimeout(() => {
+            image.src = original_src.replace(old_name, new_name);
+          }, 1000);
+        })
+        .catch((error) => {});
+    });
+  }
+}, 2000);
+</script> -->
+{{ end }}

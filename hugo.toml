@@ -1,0 +1,45 @@
+baseURL = 'https://stories.muthu.co'
+languageCode = 'en-us'
+title = 'Indian Storytime' 
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-T7PH4WNH24"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A treasure trove of Indian folklore, fables, and bedtime stories to spark wonder in young hearts and minds. Step into a magical world of talking animals, wise sages, and ancient wisdom — Indian stories for kids of all ages."
+showFooter = true
+footerContent = "Collection of stories from India made with ♥"
+faviconPath = "/"
+
+# Appearance settings
+theme = 'light'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content in markdown
+homeIntroTitle = "Indian folktales and children's classics"
+homeIntroContent = """
+A treasure trove of Indian folklore, fables, and bedtime stories to spark wonder in young hearts and minds. Step into a magical world of talking animals, wise sages, and ancient wisdom — Indian stories for kids of all ages.
+"""
+
+singleDateFormat = '2 Jan 2006'
+
+# Collection to display on home
+homeCollectionTitle = ''
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 20
+listSummaries = true
+listDateFormat = '02 Jan 2006'
+
+# Main menu pages
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
