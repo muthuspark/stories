@@ -1,0 +1,31 @@
+/* Place custom css here */
+.post-line .line-title {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+.post-line .line-date {
+  display: none;
+}
+.img-container {
+  overflow: hidden;
+}
+.post-line {
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease-in-out;
+}
+.post-line .img-container,
+.post-line div,
+.post-line p {
+  width: 100%;
+}
+
+.single-content .img-container,
+.single-content img {
+  width: 100%;
+  display: inline;
+}

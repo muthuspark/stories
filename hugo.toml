@@ -18,7 +18,7 @@ faviconPath = "/"
 
 # Appearance settings
 theme = 'light'
-colorPalette = 'default'
+colorPalette = 'base16-ocean'
 hideHeader = false
 
 # Intro on main page, content in markdown
