@@ -59,7 +59,7 @@
 
 
 
-<link rel="stylesheet" href="/assets/combined.min.4e9898ffae8f5fe2d63b4477f0bd19ce5b85801248cec26fd503afcd3cb3a4fc.css" media="all">
+<link rel="stylesheet" href="/assets/combined.min.aa9bed82067c7514d7eb2fc9480b00049c3a952b7757428ffb654521d6d5e6cd.css" media="all">
 
 
 
@@ -325,4 +325,14 @@
 
 <script src="/js/theme-switch.js"></script>
 <script defer src="/js/copy-code.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+      console.log("DOMContentLoaded");
+      document.querySelectorAll('.post-line').forEach(element => {
+          element.addEventListener('click', function() {
+              this.querySelector(".line-title a").click();
+          });
+      });
+  });
+</script>
 </html>
