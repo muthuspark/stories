@@ -1,7 +1,5 @@
 #!/bin/bash
 set -e  # Exit on any error
-
-cd /home/leopard/development/blogs/stories || exit 1
 hugo
 echo "Running pagefind..."
 echo "Building site with Hugo..."
