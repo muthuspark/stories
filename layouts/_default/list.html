@@ -6,7 +6,7 @@
 
     <h1>{{ .Title }}</h1>
     {{ .Content }}
-
+    
     {{ $tagsPage := eq .Title "Tags"}}
 
     {{ $paginationSize := 1}}
@@ -17,7 +17,7 @@
     {{ $paginator := .Paginate (.Pages) $paginationSize }}
 
     {{ range $index, $page := $paginator.Pages }}
-
+    
     {{ if $tagsPage }}
     {{ partial "tag-entry.html" $page}}
     {{ else }}

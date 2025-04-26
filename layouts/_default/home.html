@@ -42,6 +42,13 @@
     {{ $pages := where .Site.RegularPages "Section" .Site.Params.homeCollection
     }}
 
+    {{ $tags := .Site.Taxonomies.tags }}
+    <div class="tags-list">
+        {{ range $name, $taxonomy := $tags }}
+            <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" class="tag">#{{ $name }}</a>
+        {{ end }}
+    </div>
+    
     {{ $paginationSize := 1}}
     {{ if (gt .Site.Params.paginationSize 0) }}
     {{ $paginationSize = .Site.Params.paginationSize }}
