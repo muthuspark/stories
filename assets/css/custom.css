@@ -63,3 +63,6 @@
 .tag:is(a, button):hover {
    cursor: pointer;
 }
+.line-title a{
+  text-transform: capitalize !important;
+}
