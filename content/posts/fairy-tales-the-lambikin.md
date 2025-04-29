@@ -1,6 +1,6 @@
 ---
 title: "The Lambikin"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![A tiny, fluffy white Lambikin with oversized, wobbly legs hopping happily along a grassy path bathed in the warm golden light of late afternoon. Sunlight dappled with long shadows dances through the leaves of towering oak trees in the background, creating a sense of whimsical joy. The Lambikin has a joyous expression on its face, its wool catching the sunlight and appearing almost translucent. Soft watercolor blending gives the impression of gentle movement. The grass is a vibrant green with subtle yellow undertones, and tiny wildflowers bloom along the edge of the path. The overall tone is cheerful and innocent.](/images/image_fairy-tales-the-lambikin0.png)

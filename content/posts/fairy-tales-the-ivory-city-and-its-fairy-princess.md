@@ -1,6 +1,6 @@
 ---
 title: "The Ivory City and its Fairy Princess"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

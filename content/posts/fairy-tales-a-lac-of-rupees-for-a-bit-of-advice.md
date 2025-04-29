@@ -1,6 +1,6 @@
 ---
 title: "A Lac of Rupees for a Bit of Advice"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

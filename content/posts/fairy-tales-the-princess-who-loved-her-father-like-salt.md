@@ -1,6 +1,6 @@
 ---
 title: "THE PRINCESS WHO LOVED HER FATHER LIKE SALT."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "THE FAN PRINCE."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

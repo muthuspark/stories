@@ -1,6 +1,6 @@
 ---
 title: "The Talkative Tortoise"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![A vibrant watercolor illustration of King Brahma-datta, adorned in elaborate regal attire of deep crimson and gold, listening attentively to the wise man, the future Buddha. The Buddha stands beside him in the Benares palace, bathed in the soft, diffused light of a late afternoon. The king appears to be talking excessively, gesturing wildly with his hands, his face flushed with excitement. The wise man maintains a calm, patient demeanor, his eyes downcast and his hands clasped in front of him. The palace interior features intricately carved wooden pillars casting long shadows across the polished stone floor. Tapestries of deep indigo and ochre adorn the walls. The air is thick with the scent of incense. The watercolor style should emphasize soft blending and a natural flow, capturing the rich textures of silk robes and polished surfaces.](/images/image_fairy-tales-the-talkative-tortoise0.png)

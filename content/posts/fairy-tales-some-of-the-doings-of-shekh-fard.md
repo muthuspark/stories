@@ -1,6 +1,6 @@
 ---
 title: "SOME OF THE DOINGS OF SHEKH FARÍD."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

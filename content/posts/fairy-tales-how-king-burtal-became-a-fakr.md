@@ -1,6 +1,6 @@
 ---
 title: "HOW KING BURTAL BECAME A FAKÍR."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Charmed Ring"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![Watercolor illustration of a kind-faced young man with sun-kissed skin and gentle eyes, giving 100 rupees to a group of villagers. The scene is bathed in the warm, golden light of late afternoon, casting long shadows across the dusty Indian village streets. The villagers, their faces etched with gratitude and weathered by the sun, hold a scruffy brown dog with matted fur and hopeful eyes. The 100 rupee note is slightly crumpled, a symbol of its value. Buildings in the background are made of mud brick, their walls adorned with faded paint and crumbling plaster, showcasing traditional Indian village architecture. Watercolors are blended softly, evoking a feeling of warmth and kindness. A small tea stall with chipped paint can be seen in the background.](/images/image_fairy-tales-the-charmed-ring0.png)

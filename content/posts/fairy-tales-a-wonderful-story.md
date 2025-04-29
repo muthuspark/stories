@@ -1,6 +1,6 @@
 ---
 title: "A WONDERFUL STORY."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

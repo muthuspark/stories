@@ -1,6 +1,6 @@
 ---
 title: "PÁNWPATTÍ RÁNÍ."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

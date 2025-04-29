@@ -1,6 +1,6 @@
 ---
 title: "The Farmer and the Money-lender"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![Watercolor illustration, late afternoon golden hour. A weary farmer with ragged, patched clothes stained with earth stands in front of the ornate, sun-drenched house of a plump and richly dressed money lender. The money lender's house boasts intricately carved wooden doors and vibrant, blooming jasmine climbing its walls. The farmer, face etched with worry and sweat glistening on his brow, gestures with open, trembling hands in desperation. Long shadows stretch from the farmer and the house. The color palette is warm, with oranges and yellows dominating, but a somber gray clinging to the farmer. Texture: rough, woven mat outside the money lender's door, contrasting with the smoothness of the farmer's calloused hands.](/images/image_fairy-tales-the-farmer-and-the-money-lender0.png)

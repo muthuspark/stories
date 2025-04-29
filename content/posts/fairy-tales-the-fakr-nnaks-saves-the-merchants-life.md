@@ -1,6 +1,6 @@
 ---
 title: "THE FAKÍR NÁNAKSÁ SAVES THE MERCHANT'S LIFE."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

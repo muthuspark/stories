@@ -1,6 +1,6 @@
 ---
 title: "The Prince and the Fakir"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "BARBER HÍM AND THE TIGERS."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

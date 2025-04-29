@@ -1,6 +1,6 @@
 ---
 title: "How the Raja's Son won the Princess Labam."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

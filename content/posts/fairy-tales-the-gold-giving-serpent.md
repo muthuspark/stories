@@ -1,6 +1,6 @@
 ---
 title: "The Gold-giving Serpent"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![Watercolor illustration of Haridatta, a weary farmer in his late 50s, with a deeply lined, sun-kissed brown face etched with years of labor and worry. He wears simple, patched brown homespun clothing. He's napping fitfully under the sprawling, gnarled branches of a colossal banyan tree in a golden wheat field, the wheat swaying gently in the breeze. The late afternoon sun casts long, dappled shadows across the field. A large, imposing cobra with scales that shimmer with subtle iridescence and a proudly raised hood is emerging from a small, crumbling earthen mound near the tree roots. The mound is covered in dry, cracked earth and scattered pebbles. The air is thick with the scent of dry grass and warm earth. Color palette is warm golds, browns, and greens, creating a feeling of peaceful weariness.](/images/image_fairy-tales-the-gold-giving-serpent0.png)

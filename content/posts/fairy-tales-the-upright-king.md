@@ -1,6 +1,6 @@
 ---
 title: "THE UPRIGHT KING."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

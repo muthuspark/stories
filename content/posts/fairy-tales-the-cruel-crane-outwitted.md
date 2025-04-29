@@ -1,6 +1,6 @@
 ---
 title: "The Cruel Crane Outwitted"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

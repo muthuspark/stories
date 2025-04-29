@@ -1,6 +1,6 @@
 ---
 title: "The Ass in the Lion's Skin"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

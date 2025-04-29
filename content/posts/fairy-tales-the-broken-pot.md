@@ -1,6 +1,6 @@
 ---
 title: "The Broken Pot"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

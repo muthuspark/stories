@@ -1,6 +1,6 @@
 ---
 title: "Pride goeth before a Fall"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![Watercolor illustration of ten cloth sellers, dressed in colorful fabrics, walking wearily through a dark, spooky forest. Three menacing robbers with exaggerated features leap from behind gnarled trees, brandishing crudely drawn swords and sticks. The cloth sellers look frightened and defenseless.](/images/image_fairy-tales-pride-goeth-before-a-fall0.png)

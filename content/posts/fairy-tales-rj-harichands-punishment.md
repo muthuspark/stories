@@ -1,6 +1,6 @@
 ---
 title: "RÁJÁ HARICHAND'S PUNISHMENT."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

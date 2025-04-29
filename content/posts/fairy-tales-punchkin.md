@@ -1,6 +1,6 @@
 ---
 title: "Punchkin"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![A watercolor illustration of seven princesses in a grand, dimly lit kitchen at dusk. Balna, slightly separated and looking skeptical, observes a gaunt, elderly woman (Prudhan's widow) with deeply etched wrinkles taking firewood from a cast-iron stove. Soft light streams through a high arched window, casting long shadows. Dust motes dance in the light. Dirt subtly scatters from the widow's gnarled hands, falling towards a simmering pot of stew. The wooden floor is worn and uneven. The color palette is muted, with earthy tones and hints of faded gold. Balna's expression is a mix of suspicion and compassion, her body language guarded. The other princesses, dressed in colorful, slightly faded silk gowns, are focused on the widow with varying degrees of concern. Watercolor style: soft blending, natural flow, subtle washes.](/images/image_fairy-tales-punchkin0.png)

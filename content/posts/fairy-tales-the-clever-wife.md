@@ -1,6 +1,6 @@
 ---
 title: "THE CLEVER WIFE."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

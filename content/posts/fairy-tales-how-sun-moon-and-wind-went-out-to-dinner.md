@@ -1,6 +1,6 @@
 ---
 title: "How Sun, Moon, and Wind went out to Dinner"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "How the Wicked Sons were Duped."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

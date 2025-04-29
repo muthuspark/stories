@@ -1,6 +1,6 @@
 ---
 title: "Why the Fish Laughed."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

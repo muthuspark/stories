@@ -1,6 +1,6 @@
 ---
 title: "The Boy who had a Moon on his Forehead and a Star on his Chin"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![Watercolor illustration: Golden hour light filters through the leaves of a massive, ancient oak tree, dappling the grass with warm shadows. A young gardener's daughter, around 8 years old, with rosy cheeks and braided brown hair, beams with a genuine, gap-toothed smile. She points upwards with a dirty, soil-stained finger towards a bird's nest high in the branches. Seven other young girls, ranging in age, giggle and laugh with amusement, their faces flushed with joy. Some wear simple cotton dresses, others patched and worn clothing. A worn, hand-painted watering can rests near the base of the tree. Wildflowers bloom riotously in the foreground, creating a vibrant carpet of color. Soft blending, natural watercolor flow, creating a heartwarming and nostalgic atmosphere.](/images/image_fairy-tales-the-boy-who-had-a-moon-on-his-forehead-and-a-star-on-his-chin0.png)

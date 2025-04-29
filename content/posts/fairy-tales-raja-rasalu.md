@@ -1,6 +1,6 @@
 ---
 title: "Raja Rasalu."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![A watercolor illustration of Queen Lona, dressed in royal blue velvet robes trimmed with intricate gold embroidery, sitting sadly on a jade-inlaid divan in her opulent palace. Sunlight, a warm golden hue, streams through a large, arched window with delicate Mughal-inspired latticework, casting intricate shadows across the polished marble floor. Her gaze is downcast towards her lap, where her hands are clasped tightly, her knuckles white. A single, shimmering tear rolls down her cheek, catching the light. The palace architecture features intricate Mughal-inspired designs: ornate columns, jewel-toned mosaics, and tapestries depicting scenes of past glory. The color palette is dominated by deep blues and golds, creating a somber yet majestic atmosphere. Soft blending emphasizes the melancholic mood. Texture is subtly applied to the velvet robes and marble flooring.](/images/image_fairy-tales-raja-rasalu0.png)

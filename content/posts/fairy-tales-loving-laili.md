@@ -1,6 +1,6 @@
 ---
 title: "LOVING LAILÍ."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

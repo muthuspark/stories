@@ -1,6 +1,6 @@
 ---
 title: "THE MOUSE."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Tiger, the Brahman, and the Jackal"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

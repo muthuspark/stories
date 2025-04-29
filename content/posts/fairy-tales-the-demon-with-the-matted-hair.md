@@ -1,6 +1,6 @@
 ---
 title: "The Demon with the Matted Hair"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![Watercolor illustration of the Teacher (Buddha), sitting in Jetavana, surrounded by monks. The monks are young and old, their faces reflecting rapt attention. The Teacher has a serene expression, his eyes closed in contemplation, a gentle smile gracing his lips. He is seated on a simple mat beneath a bodhi tree, its leaves rustling gently in the breeze. The air is filled with the scent of incense. In the background, subtly depicted as transparent, ethereal images, are faint, ghost-like images of the Prince and the Demon, locked in their struggle and eventual understanding. These ghostly figures are integrated into the trees and foliage. The lighting is soft and diffused, creating a sense of tranquility. Color palette: Earthy tones, with soft greens and browns, and a hint of gold. Emotional tone: Peaceful, wise, contemplative. Artistic style: Watercolor with a focus on spiritual serenity and subtle details.](/images/image_fairy-tales-the-demon-with-the-matted-hair6.png)

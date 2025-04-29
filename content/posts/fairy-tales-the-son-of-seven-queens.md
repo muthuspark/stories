@@ -1,6 +1,6 @@
 ---
 title: "The Son of Seven Queens"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![Watercolor illustration of a kind, elderly man with a long, flowing white beard, presenting himself to a sad, crowned King in a grand throne room. The King, seated on a gold-leaf throne, is surrounded by seven beautiful Queens, all looking melancholic. Soft, dappled sunlight streams through stained-glass windows, casting long shadows on the polished marble floor. The man's beard has individual strands visible, and his clothes are slightly worn, adding to his humbleness. The King's crown glints, but his face is etched with worry lines. The Queens are dressed in rich velvet gowns in muted jewel tones, their faces pale and tear-streaked. The overall color palette is warm and inviting, but subtly tinged with sadness. Texture: The throne's velvet cushion is slightly worn, and the marble floor reflects the light unevenly. Artistic style: loose watercolor with soft blending and a focus on capturing the natural flow of the paint.](/images/image_fairy-tales-the-son-of-seven-queens0.png)

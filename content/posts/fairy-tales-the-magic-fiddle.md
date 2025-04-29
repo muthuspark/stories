@@ -1,6 +1,6 @@
 ---
 title: "The Magic Fiddle"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 ![Watercolor illustration, midday sun casting sharp shadows, of seven women standing around a weathered stone well, their faces etched with accusatory glares. They point dramatically at a young woman with a cracked clay jar, water spilling from its side. A small, mischievous-looking Bonga, with large, iridescent eyes, lurks nearby, partially obscured by swaying reeds. The sky is a pale cerulean blue with soft, cumulus clouds, casting a dappled light on the scene. The watercolor style emphasizes soft blending, with visible brushstrokes suggesting the rough texture of the well stones and the woven fabric of the women's clothes. The overall tone is tense and suspicious.](/images/image_fairy-tales-the-magic-fiddle0.png)

@@ -1,6 +1,6 @@
 ---
 title: "The Soothsayer's Son"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

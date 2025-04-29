@@ -1,6 +1,6 @@
 ---
 title: "A Lesson for Kings"
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 

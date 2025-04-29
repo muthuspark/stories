@@ -1,6 +1,6 @@
 ---
 title: "HOW THE RÁJÁ'S SON WON THE PRINCESS LABÁM."
-tags: ["fairy tales"]
+tags: ["Indian Fairy Tales"]
 showTags: true
 ---
 
